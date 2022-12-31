@@ -1,0 +1,15 @@
+.body_background {
+
+    background-image: url("https://img.freepik.com/free-vector/abstract-colorful-soft-watercolor-texture-background_1035-18958.jpg?w=2000") ;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+#myCanvas{
+
+	border-width: 10px;
+	background-color: white;
+	border-style: ridge;
+
+}
